@@ -1,0 +1,44 @@
+.card-body {
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    margin: auto;
+    display: grid;
+}
+
+li {
+    list-style: none;
+}
+
+.form {
+    display: grid;
+    place-items: center;
+    margin: auto;
+    margin-top: 2%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card1 {
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.card2 {
+    display: grid;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-buscador {
+    display: grid;
+    margin: auto;
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.contenido {
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+
+}
